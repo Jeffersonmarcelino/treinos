@@ -20,7 +20,7 @@ console.log(200 + 15 *9)
 //divisao
 let numeroComVirgula = 12.15
 let numeroA = 10
-let numeroB = 2
-let divisao = numeroA / numeroB
+let numeroB = 3
+let divisao = (numeroA / numeroB) + numeroComVirgula
 
 console.log(divisao)

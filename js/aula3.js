@@ -7,7 +7,7 @@ let nomeCompleto = nome + ' ' + sobreNome
 
 console.log(nomeCompleto)
 
-let idade = 19 
+let idade = 19
 let nomeIdade = nome + ' ' + sobreNome + ' ' + idade
 
 console.log(nomeIdade)
