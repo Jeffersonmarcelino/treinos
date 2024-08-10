@@ -17,3 +17,4 @@ notas.map((todasNotas) => {
 console.log("o tamanho da lista é ")
 console.log(lista.length)
 
+

@@ -38,3 +38,4 @@ let lista = ["elemento A", "elemento B"]
 let inclui = lista.includes("elemento B") // metodo includes mostra se tem um elemento ou nao "true or false"
 console.log(inclui)
 
+

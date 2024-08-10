@@ -18,6 +18,7 @@ lista.pop() //para remover o ultimo indice adicionado
 lista.reverse() // para reverter a ordem dos indices
 
 lista[0] = "valdete" // para alterar o indice escolhido
+
  
 
 
